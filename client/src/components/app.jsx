@@ -12,7 +12,7 @@ import SaveList from './savelist.jsx';
   constructor(props) {
     super(props);
     this.state = {
-      state: 'CA',
+      state: '',
       currentItems: [],
       newItemEntry: '',
       inputListName: '',

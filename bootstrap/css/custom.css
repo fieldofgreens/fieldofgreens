@@ -50,6 +50,7 @@ body {
   padding: 4px 6px 2.5px 6px;
   margin-right: 3.5px;
   margin-bottom: 5px;
+  background: rgba(255, 255, 255, .7);
 }
 
 /*====== Each Individual Recall Item ======*/
@@ -57,7 +58,7 @@ body {
   background-color:#ffffff;
   background: rgba(255, 255, 255, .7);
   padding: 5px;
-  margin: 4px 20px;
+  margin: 4px 25px;
   font-family: 'Sans Serif', Open Sans;
   color: #000000;
 }
